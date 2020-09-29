@@ -111,7 +111,7 @@ dialogs:
         ok: OK
         delete: Deletar
         cancel: Cancelar
-        later: Voltar
+        later: Depois
         restart: Reiniciar
         reset: Resetar
         getStandalone: Obter versão completa
@@ -961,21 +961,21 @@ keybindings:
         placementDisableAutoOrientation: Desligar orientação automática
         placeMultiple: Permanecer no modo de construção
         placeInverse: Inverter orientação de esteira
-        balancer: Balancer
-        storage: Storage
-        constant_signal: Constant Signal
-        logic_gate: Logic Gate
+        balancer: Balanceador
+        storage: Armazenamento
+        constant_signal: Sinal Constante
+        logic_gate: Porta Lógica
         lever: Switch (regular)
-        filter: Filter
+        filter: Filtro
         wire_tunnel: Wire Crossing
-        display: Display
-        reader: Belt Reader
-        virtual_processor: Virtual Cutter
+        display: Exibir
+        reader: Leitor de Cinto
+        virtual_processor: Cortador Virtual
         transistor: Transistor
-        analyzer: Shape Analyzer
-        comparator: Compare
-        item_producer: Item Producer (Sandbox)
-        copyWireValue: "Wires: Copy value below cursor"
+        analyzer: Analisador de Forma
+        comparator: Comparador
+        item_producer: Produtor de Itens (Sandbox)
+        copyWireValue: "Fios: Copie o valor abaixo do cursor"
 about:
     title: Sobre o jogo
     body: >-
